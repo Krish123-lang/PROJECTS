@@ -1,0 +1,33 @@
+#green{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+#blue{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+#red{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+#random{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
